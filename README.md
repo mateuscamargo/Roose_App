@@ -44,7 +44,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
 - [Glauco](github.com/RafaelRCLima)
-- [Vitor]()
+- [Vitor](https://github.com/assenvitor)
 - [Flávio]()
 - [Felipe]()
  
@@ -59,8 +59,8 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMzk2NTg4LDM3Nzg1ODk3MCwxMjQzMD
-gyMTg5LC0yNzM0MDYwMzksNjAzMDMzMjM0LDEyNjYxMzAzOTQs
-NDEzMDUxNjc5LDIwNzE2MDc0NDksMTIyNzE0MTI4NiwtNDk4Nz
-czOTg5LDEyMzIxODM2MDFdfQ==
+eyJoaXN0b3J5IjpbLTEyODY4ODc5NTIsMzc3ODU4OTcwLDEyND
+MwODIxODksLTI3MzQwNjAzOSw2MDMwMzMyMzQsMTI2NjEzMDM5
+NCw0MTMwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2LC00OT
+g3NzM5ODksMTIzMjE4MzYwMV19
 -->
