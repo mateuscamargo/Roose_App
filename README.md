@@ -23,14 +23,18 @@
 -   Serviço de quarto
 -   Não perturbe/favor arrumar o quarto/Troca da roupa de cama
 -   Playlist de música
--   Integração com smart tv
+-   Integração com Smart TV
 -   Abri App Uber e Solicitar uma corrida
 -   Ligar Ar-Condicionado quando estiver próximo do
 -   Solicitar reabastecimento do frigobar / refeição
 -   Abertura de fechadura com NFC
 
 ### LINGUAGENS:
-- Definidas quando iniciar o desenvolvimento
+- Python
+- XHTML
+- CSS
+- JavaScript
+- 
 
 ### FERRAMENTAS:
 - [GitHub](https://github.com/mateuscamargo/Roose_App)
@@ -42,6 +46,6 @@
 
 > Escrito com [StackEdit]( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTUxMDQ1NCwyMDcxNjA3NDQ5LDEyMj
-cxNDEyODYsLTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
+eyJoaXN0b3J5IjpbLTEyOTEwOTM4MDAsMjA3MTYwNzQ0OSwxMj
+I3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
 -->
