@@ -26,14 +26,17 @@ que melhore a sua experiência em sua permanência ao hotel.
  - Ligar Ar-condicionado
  - Solicitar reabastecimento de frigobar / refeição
  - Abertura de fechadura com NFC
+ 
 ### LINGUAGENS:
-- Python - XHTML - CSS - JavaScript
-
-
-
+- Python
+- XHTML
+- CSS
+- JavaScript
 
 ### FERRAMENTAS:
-- [GitHub] ( https://github.com/mateuscamargo/Roose_App) - [Trello] ( https://trello.com/b/oUfxIrLz/app-roose) - [Draw.io] (https: // draw .io)
+- [GitHub](https://github.com/mateuscamargo/Roose_App)
+- [Trello](https://trello.com/b/oUfxIrLz/app-roose)
+- [Draw.io](https://draw.io)
 
 
  
@@ -46,7 +49,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUyNDY1NDQsNjAzMDMzMjM0LDEyNj
-YxMzAzOTQsNDEzMDUxNjc5LDIwNzE2MDc0NDksMTIyNzE0MTI4
-NiwtNDk4NzczOTg5LDEyMzIxODM2MDFdfQ==
+eyJoaXN0b3J5IjpbLTc4MjkxMzg1OCw2MDMwMzMyMzQsMTI2Nj
+EzMDM5NCw0MTMwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2
+LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
 -->
