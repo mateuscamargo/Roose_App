@@ -20,24 +20,19 @@
 - Integração com Smart TV
 - Abri App Uber e Solicitar uma corrida
 - Ligar Ar-condicionado
-- Solicitar reabastecimento de frigobar / refeição - Abertura de fechadura com NFC
-
-
-
-
-
-
-
-
+- Solicitar reabastecimento de frigobar / refeição
+- Abertura de fechadura com NFC
 
 ### LINGUAGENS:
-- Python - XHTML - CSS - JavaScript
-
-
-
+- Python
+- XHTML
+- CSS
+- JavaScript
 
 ### FERRAMENTAS:
-- [GitHub] ( https://github.com/mateuscamargo/Roose_App) - [Trello] ( https://trello.com/b/oUfxIrLz/app-roose) - [Draw.io] (https: // draw .io)
+- [GitHub](https://github.com/mateuscamargo/Roose_App)
+- [Trello](https://trello.com/b/oUfxIrLz/app-roose)
+- [Draw.io](https://draw.io)
  
 
 
@@ -48,7 +43,7 @@
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIzMzc5NCwxMjY2MTMwMzk0LDQxMz
-A1MTY3OSwyMDcxNjA3NDQ5LDEyMjcxNDEyODYsLTQ5ODc3Mzk4
-OSwxMjMyMTgzNjAxXX0=
+eyJoaXN0b3J5IjpbNjAzMDMzMjM0LDEyNjYxMzAzOTQsNDEzMD
+UxNjc5LDIwNzE2MDc0NDksMTIyNzE0MTI4NiwtNDk4NzczOTg5
+LDEyMzIxODM2MDFdfQ==
 -->
