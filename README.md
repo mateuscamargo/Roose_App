@@ -11,25 +11,21 @@ DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 hotel seja facilitado. 
   - Fazer com que o cliente tenha as facilidades
 na palma da mão, ou seja, ter acesso a ações
-que melhore a sua experiência em sua permanência ao hotel.                           
- 
- 
-                                                                                                     
+que melhore a sua experiência em sua permanência ao hotel.
 
-### FUNCIONALIDADES:
-
-- Previsão do tempo - Check-in - Check-out - Restaurantes / pontos turísticos próximos - Despertador - Serviço de quarto - Lista de reprodução de música - Integração com Smart TV - Abri App Uber e Solicitar uma corrida - Ligar Ar-condicionado - Solicitar reabastecimento de frigobar / refeição - Abertura de fechadura com NFC
-
-
-
-
-
-
-
-
-
-
-
+ ### FUNCIONALIDADES:
+ - Previsão do tempo
+ - Check-in
+ - Check-out
+ - Restaurantes / pontos turísticos próximos
+ - Despertador
+ - Serviço de quarto
+ - Lista de reprodução de música
+ - Integração com Smart TV
+ - Abri App Uber e Solicitar uma corrida
+ - Ligar Ar-condicionado
+ - Solicitar reabastecimento de frigobar / refeição
+ - Abertura de fechadura com NFC
 ### LINGUAGENS:
 - Python - XHTML - CSS - JavaScript
 
@@ -50,7 +46,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDQ0NzA5Niw2MDMwMzMyMzQsMTI2Nj
-EzMDM5NCw0MTMwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2
-LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
+eyJoaXN0b3J5IjpbLTEyNjUyNDY1NDQsNjAzMDMzMjM0LDEyNj
+YxMzAzOTQsNDEzMDUxNjc5LDIwNzE2MDc0NDksMTIyNzE0MTI4
+NiwtNDk4NzczOTg5LDEyMzIxODM2MDFdfQ==
 -->
