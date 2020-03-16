@@ -3,7 +3,7 @@
 
 DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 
-- **Ícone:** <img
+- **Ícone:** <img src="roose.jpg">
 - **Nome do Aplicativo / Grupo:** Optimus 
 - **Nome do Assistente:** Roose
 - **Visão do Produto:** 
