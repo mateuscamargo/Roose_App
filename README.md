@@ -1,4 +1,4 @@
- <img src="https://github.com/mateuscamargo/Roose_App/blob/master/Roose.jpg">
+ <img src="https://github.com/mateuscamargo/Roose_App/blob/master/Roose.jpg" align="middle">
 
 
 # ROOSE
