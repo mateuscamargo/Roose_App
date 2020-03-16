@@ -52,29 +52,29 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
 
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+Se você acabou de modificar seu arquivo e deseja sincronizar, clique no botão ** Sincronizar agora ** na barra de navegação.
 
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+> ** Nota: ** O botão ** Sincronizar agora ** será desativado se você não tiver um arquivo para sincronizar. 
 
-## Manage file synchronization
+## Gerenciar sincronização de arquivos
 
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+Uma vez Que o arquivo PODE é sincronizado com vários submenus, rápido Você pode listar e gerenciar OS LOCAIS sincronizados Clicando ** submenu Sincronização de arquivos ** não ** Sincronizar ** . Isso permite listar e remover locais sincronizados que estão vinculados ao seu arquivo.
 
 
-# Publication
+# Publicação
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+Uma publicação no StackEdit facilita uma publicação on-line de seus arquivos. Quando estiver satisfeito com um arquivo, você poderá publicá-lo em diferentes plataformas de hospedagem, como ** Blogger ** , ** Dropbox ** , ** Gist ** , ** GitHub ** , ** Google Drive ** , *    * WordPress ** e ** Zendesk **. Com os [Modelos de guia] ( http://handlebarsjs.com/) , você tem controle total sobre o que é exportado.
 
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+> Antes de Começar um PUBLICAR, rápido Você DEVE vincular um submenu Uma Conta Nenhuma ** Publicar ** .
 
-## Publish a File
+## Publicar um arquivo
 
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
+Você pode publicar seu arquivo abrindo o submenu ** Publicar ** e clicar ** Publicar ** . Para alguns locais, você pode escolher entre os seguintes formatos:
 
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
+- Markdown: publicação ou texto do Markdown em um site que possa interpretar-lo ( ** GitHub ** , por exemplo), - HTML: publicação ou arquivo convertido em HTML por meio de um modelo de orientação (em um blog, por exemplo ))))
 
-## Update a publication
+
+## Atualizar uma publicação
 
 After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
 
@@ -142,5 +142,5 @@ B -> D {Rhombus}
 C -> D `` `
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NTMxNDY2XX0=
+eyJoaXN0b3J5IjpbLTEwMjg3NDc4NjQsMzI4NTMxNDY2XX0=
 -->
