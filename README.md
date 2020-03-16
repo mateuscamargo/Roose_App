@@ -8,6 +8,8 @@
 **Visão do Produto:** Assistente Pessoal Virtual para um Hotel
 **Objetivo:** Fazer com que o cliente tenha as facilidades na palma da mão, ou seja, ter acesso a ações que melhore a sua experiência na permanência ao hotel.
 
+<hr>
+
 ### FUNCIONALIDADES (4 EM TEMPO REAL):
 
 -   Previsão do tempo
@@ -29,6 +31,6 @@
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQyODA2NjgsMTIyNzE0MTI4NiwtND
-k4NzczOTg5LDEyMzIxODM2MDFdfQ==
+eyJoaXN0b3J5IjpbOTYyOTAzNzYsMTIyNzE0MTI4NiwtNDk4Nz
+czOTg5LDEyMzIxODM2MDFdfQ==
 -->
