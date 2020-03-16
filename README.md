@@ -1,4 +1,4 @@
- RARoeg src="https://github.com/mateuscamargo/Roose_App/blob/master/Roose.jpg">
+ RARoeg src="https://github.com/mateuscamargo/Roose_App/blob/master/Roose.jpg" align=middle>
 
 
 # ROOSE
