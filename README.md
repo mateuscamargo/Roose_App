@@ -24,15 +24,13 @@
 ### LINGUAGENS:
 - Python 
 - XHTML
-- CSS - JavaScript - -
-
-
-
-
-
+- CSS
+- JavaScript
 
 ### FERRAMENTAS:
-- [GitHub] ( https://github.com/mateuscamargo/Roose_App) - [Trello] ( https://trello.com/b/oUfxIrLz/app-roose) - [Draw.io] (https: // draw .io)
+- [GitHub](https://github.com/mateuscamargo/Roose_App) 
+- [Trello](https://trello.com/b/oUfxIrLz/app-roose) 
+- [Draw.io](https://draw.io)
 
 
 
@@ -41,7 +39,7 @@
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUxMTkzNzgsMTI2NjEzMDM5NCw0MT
-MwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2LC00OTg3NzM5
-ODksMTIzMjE4MzYwMV19
+eyJoaXN0b3J5IjpbOTA4ODM1ODIyLDEyNjYxMzAzOTQsNDEzMD
+UxNjc5LDIwNzE2MDc0NDksMTIyNzE0MTI4NiwtNDk4NzczOTg5
+LDEyMzIxODM2MDFdfQ==
 -->
