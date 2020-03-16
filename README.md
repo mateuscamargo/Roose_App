@@ -11,7 +11,7 @@ DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 hotel seja facilitado. 
   - Fazer com que o cliente tenha as facilidades
 na palma da mão, ou seja, ter acesso a ações
-que melhore a sua experiência no nosso hotel.                           
+que melhore a sua experiência em sua permanência ao hotel.                           
  
  
                                                                                                      
@@ -50,7 +50,7 @@ que melhore a sua experiência no nosso hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODQ3MTQwLDYwMzAzMzIzNCwxMjY2MT
-MwMzk0LDQxMzA1MTY3OSwyMDcxNjA3NDQ5LDEyMjcxNDEyODYs
-LTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
+eyJoaXN0b3J5IjpbLTYzNDQ0NzA5Niw2MDMwMzMyMzQsMTI2Nj
+EzMDM5NCw0MTMwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2
+LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
 -->
