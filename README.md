@@ -1,5 +1,5 @@
 
-# PROJETO INTEGRADOR
+# ROOSE
 
 - DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 
@@ -21,7 +21,6 @@
 -   Restaurantes/pontos turísticos próximos
 -   Despertador
 -   Serviço de quarto
--   Não perturbe/favor arrumar o quarto/Troca da roupa de cama
 -   Playlist de música
 -   Integração com Smart TV
 -   Abri App Uber e Solicitar uma corrida
@@ -46,6 +45,6 @@
 
 > Escrito com [StackEdit]( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyNDAzOTQsMjA3MTYwNzQ0OSwxMjI3MT
-QxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
+eyJoaXN0b3J5IjpbNDEzMDUxNjc5LDIwNzE2MDc0NDksMTIyNz
+E0MTI4NiwtNDk4NzczOTg5LDEyMzIxODM2MDFdfQ==
 -->
