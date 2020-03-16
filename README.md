@@ -1,4 +1,4 @@
-<img src="https://github.com/mateuscamargo/Roose_App/blob/master/Roose.jpg">
+ RARoeg src="https://github.com/mateuscamargo/Roose_App/blob/master/Roose.jpg">
 
 
 # ROOSE
@@ -52,7 +52,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzQwNjAzOSw2MDMwMzMyMzQsMTI2Nj
-EzMDM5NCw0MTMwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2
-LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
+eyJoaXN0b3J5IjpbMTI0MzA4MjE4OSwtMjczNDA2MDM5LDYwMz
+AzMzIzNCwxMjY2MTMwMzk0LDQxMzA1MTY3OSwyMDcxNjA3NDQ5
+LDEyMjcxNDEyODYsLTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
 -->
