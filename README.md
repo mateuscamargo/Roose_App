@@ -43,14 +43,14 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
-- [Glauco](github.com/RafaelRCLima)
+- [Glauco](https://github.com/glaucofidelix)
 - [Vitor](https://github.com/assenvitor)
-- [Flávio]()
+- [Flávio](https://github.com/twofap2)
 - [Felipe]()
  
 ### SCRUM MASTER
 
-- [Rafael]()
+- [Rafael](github.com/RafaelRCLima)
 
 
 
@@ -59,8 +59,8 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY4ODc5NTIsMzc3ODU4OTcwLDEyND
-MwODIxODksLTI3MzQwNjAzOSw2MDMwMzMyMzQsMTI2NjEzMDM5
-NCw0MTMwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2LC00OT
-g3NzM5ODksMTIzMjE4MzYwMV19
+eyJoaXN0b3J5IjpbMTc3NTQwNzE1MSwzNzc4NTg5NzAsMTI0Mz
+A4MjE4OSwtMjczNDA2MDM5LDYwMzAzMzIzNCwxMjY2MTMwMzk0
+LDQxMzA1MTY3OSwyMDcxNjA3NDQ5LDEyMjcxNDEyODYsLTQ5OD
+c3Mzk4OSwxMjMyMTgzNjAxXX0=
 -->
