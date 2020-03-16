@@ -30,8 +30,8 @@
 - Definidas quando iniciar o desenvolvimento
 
 ### FERRAMENTAS:
-- (GitHub) [https://github.com/mateuscamargo/Roose_App]
-- Trello
+- [GitHub] https://github.com/mateuscamargo/Roose_App)
+- Trello [https://trello.com/b/oUfxIrLz/app-roose](https://trello.com/b/oUfxIrLz/app-roose)
 - Draw
 
 
@@ -39,6 +39,6 @@
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg4OTkyMjcsMjA3MTYwNzQ0OSwxMj
-I3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
+eyJoaXN0b3J5IjpbMTQzNDI1MTU5OCwyMDcxNjA3NDQ5LDEyMj
+cxNDEyODYsLTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
 -->
