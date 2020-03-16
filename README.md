@@ -42,13 +42,15 @@ que melhore a sua experiência em sua permanência ao hotel.
 - [Draw.io](https://draw.io)
 
 ### DEV TEAM
-- [Mateus]
-- [Glauco]
-- [Vitor]
-- [Flávio]
-- [Felipe]
+- [Mateus](https://github.com/mateuscamargo)
+- [Glauco](github.com/RafaelRCLima)
+- [Vitor]()
+- [Flávio]()
+- [Felipe]()
  
-### 
+### SCRUM MASTER
+
+- [Rafael]()
 
 
 
@@ -57,8 +59,8 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTQ1NTc2MSwzNzc4NTg5NzAsMTI0Mz
-A4MjE4OSwtMjczNDA2MDM5LDYwMzAzMzIzNCwxMjY2MTMwMzk0
-LDQxMzA1MTY3OSwyMDcxNjA3NDQ5LDEyMjcxNDEyODYsLTQ5OD
-c3Mzk4OSwxMjMyMTgzNjAxXX0=
+eyJoaXN0b3J5IjpbNDMyMzk2NTg4LDM3Nzg1ODk3MCwxMjQzMD
+gyMTg5LC0yNzM0MDYwMzksNjAzMDMzMjM0LDEyNjYxMzAzOTQs
+NDEzMDUxNjc5LDIwNzE2MDc0NDksMTIyNzE0MTI4NiwtNDk4Nz
+czOTg5LDEyMzIxODM2MDFdfQ==
 -->
