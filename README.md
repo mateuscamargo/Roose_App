@@ -5,12 +5,16 @@ DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 
 - **Nome do Aplicativo / Grupo:** Optimus 
 - **Nome do Assistente:** Roose
-- **Visão do Produto: ** Assistente Pessoal do Hotel Virtual
-- ** Objetivo: ** Fazer Com o Cliente que possui Como Recursos Fazer Palma de Mão, Ações que compõem o SUA Experiência na permanência Ao Hotel                            
+- **Visão do Produto:** Fazer com que o cliente tenha as facilidades na palma da mão, ou seja, ter acesso a ações que melhore a sua experiência no nosso hotel
+- **Objetivo:**
+  - Fazer com que a relação do cliente com o
+hotel seja facilitado. 
+  - Fazer com que o cliente tenha as facilidades
+na palma da mão, ou seja, ter acesso a ações
+que melhore a sua experiência no nosso hotel.                           
  
  
                                                                                                      
-<hr>
 
 ### FUNCIONALIDADES:
 
@@ -46,7 +50,7 @@ DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMzc2Mzg2LDYwMzAzMzIzNCwxMjY2MT
-MwMzk0LDQxMzA1MTY3OSwyMDcxNjA3NDQ5LDEyMjcxNDEyODYs
-LTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
+eyJoaXN0b3J5IjpbMTcxMjU5MzM2Niw2MDMwMzMyMzQsMTI2Nj
+EzMDM5NCw0MTMwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2
+LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
 -->
