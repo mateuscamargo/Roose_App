@@ -1,23 +1,23 @@
 # Bem-vindo ao StackEdit!
 
-Oi! Sou o seu primeiro arquivo Markdown no ** StackEdit ** . Se você quiser aprender sobre o StackEdit, pode me ler. Se você quiser brincar com o Markdown, pode me editar. Depois de terminar comigo, você pode criar novos arquivos abrindo o ** explorador de arquivos ** no canto esquerdo da barra de navegação.
+Oi! Sou o primeiro arquivo Markdown no ** StackEdit ** . Se você quiser aprender sobre o StackEdit, pode me ler. Se você quiser brincar com o Markdown, pode me editar. Depois de terminar comigo, você pode criar novos arquivos abrindo o ** explorador de arquivos ** no canto esquerdo da barra de navegação.
 
 
 # Arquivos
 
-O StackEdit armazena seus arquivos no seu navegador, o que significa que todos os seus arquivos são salvos automaticamente localmente e acessíveis ** offline! **
+O StackEdit armazena seus arquivos no seu navegador, o que significa que todos os seus arquivos são salvos automaticamente localmente e disponíveis ** offline! **
 
-## Crie arquivos e pastas
+## Crie arquivos e massas
 
-O explorador de arquivos pode ser acessado usando o botão no canto esquerdo da barra de navegação. Você pode criar um novo arquivo clicando no botão ** Novo arquivo ** no gerenciador de arquivos. Você também pode criar pastas clicando no botão ** Nova pasta ** .
+O explorador de arquivos pode ser acessado usando o botão no canto esquerdo da barra de navegação. Você pode criar um novo arquivo clicando no botão ** Novo arquivo ** no gerenciador de arquivos. Você também pode criar massas clicando no botão ** Nova pasta ** .
 
 ## Mudar para outro arquivo
 
-Todos os seus arquivos e pastas são apresentados como uma árvore no gerenciador de arquivos. Você pode alternar de um para outro clicando em um arquivo na árvore.
+Todos os seus arquivos e pastas são apresentados como uma árvore no gerenciador de arquivos. Você pode alternar um para outro clicando em um arquivo na árvore.
 
 ## Renomear um arquivo
 
-Você pode renomear o arquivo atual clicando no nome do arquivo na barra de navegação ou no botão ** Renomear ** no gerenciador de arquivos.
+Você pode renomear ou arquivo atual clicando no nome do arquivo na barra de navegação ou no botão ** Renomear ** no gerenciador de arquivos.
 
 ## Excluir um arquivo
 
@@ -142,5 +142,5 @@ B -> D {Rhombus}
 C -> D `` `
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDU0NTA3XX0=
+eyJoaXN0b3J5IjpbMzI4NTMxNDY2XX0=
 -->
