@@ -8,6 +8,9 @@
 **Visão do Produto:** Assistente Pessoal Virtual para um Hotel
 **Objetivo:** Fazer com que o cliente tenha as facilidades na palma da mão, ou seja, ter acesso a ações que melhore a sua experiência na permanência ao hotel.
 
+
+
+
 <hr>
 
 ### FUNCIONALIDADES:
@@ -30,15 +33,15 @@
 - Definidas quando iniciar o desenvolvimento
 
 ### FERRAMENTAS:
-- [GitHub] https://github.com/mateuscamargo/Roose_App)
-- Trello [https://trello.com/b/oUfxIrLz/app-roose](https://trello.com/b/oUfxIrLz/app-roose)
-- Draw
+- [GitHub](https://github.com/mateuscamargo/Roose_App)
+- [Trello](https://trello.com/b/oUfxIrLz/app-roose)
+- [Draw.io](https://draw.io)
 
 
 
 
-> Escrito com [StackEdit] ( https://stackedit.io/) .
+> Escrito com [StackEdit]( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDI1MTU5OCwyMDcxNjA3NDQ5LDEyMj
+eyJoaXN0b3J5IjpbMTIwOTUxMDQ1NCwyMDcxNjA3NDQ5LDEyMj
 cxNDEyODYsLTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
 -->
