@@ -3,6 +3,7 @@
 
 DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 
+- **Ícone:** <img
 - **Nome do Aplicativo / Grupo:** Optimus 
 - **Nome do Assistente:** Roose
 - **Visão do Produto:** 
@@ -50,7 +51,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzgzNTk5Nyw2MDMwMzMyMzQsMTI2Nj
+eyJoaXN0b3J5IjpbLTI3MzQwNjAzOSw2MDMwMzMyMzQsMTI2Nj
 EzMDM5NCw0MTMwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2
 LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
 -->
