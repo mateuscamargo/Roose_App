@@ -3,10 +3,10 @@
 
 - DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 
-**Nome do App/Grupo:** Optimus
-**Nome da Assistente:** Roose
-**Visão do Produto:** Assistente Pessoal Virtual para um Hotel
-**Objetivo:** Fazer com que o cliente tenha as facilidades na palma da mão, ou seja, ter acesso a ações que melhore a sua experiência na permanência ao hotel.
+**Nome do App/Grupo:** Optimus <br>
+**Nome da Assistente:** Roose <br>
+**Visão do Produto:** Assistente Pessoal Virtual para um Hotel <br>
+**Objetivo:** Fazer com que o cliente tenha as facilidades na palma da mão, ou seja, ter acesso a ações que melhore a sua experiência na permanência ao hotel <br>
 
 
 
@@ -46,6 +46,6 @@
 
 > Escrito com [StackEdit]( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTEwOTM4MDAsMjA3MTYwNzQ0OSwxMj
-I3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
+eyJoaXN0b3J5IjpbNzMyNDAzOTQsMjA3MTYwNzQ0OSwxMjI3MT
+QxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
 -->
