@@ -1,9 +1,12 @@
 
 # ROOSE
 
-- DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
+DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 
-** Nome do Aplicativo / Grupo: ** Optimus <br> ** Nome do Assistente: ** Roose <br> ** Visão do Produto: ** Assistente Pessoal do Hotel Virtual <br> ** Objetivo: ** Fazer Com o Cliente que possui Como Recursos Fazer Palma de Mão, Ações que compõem o SUA Experiência na permanência Ao Hotel <br>                              
+- **Nome do Aplicativo / Grupo:** Optimus 
+- **Nome do Assistente:** Roose
+- **Visão do Produto: ** Assistente Pessoal do Hotel Virtual
+- ** Objetivo: ** Fazer Com o Cliente que possui Como Recursos Fazer Palma de Mão, Ações que compõem o SUA Experiência na permanência Ao Hotel                            
  
  
                                                                                                      
@@ -43,7 +46,7 @@
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY4OTU2NzcsNjAzMDMzMjM0LDEyNj
-YxMzAzOTQsNDEzMDUxNjc5LDIwNzE2MDc0NDksMTIyNzE0MTI4
-NiwtNDk4NzczOTg5LDEyMzIxODM2MDFdfQ==
+eyJoaXN0b3J5IjpbNTMwMzc2Mzg2LDYwMzAzMzIzNCwxMjY2MT
+MwMzk0LDQxMzA1MTY3OSwyMDcxNjA3NDQ5LDEyMjcxNDEyODYs
+LTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
 -->
