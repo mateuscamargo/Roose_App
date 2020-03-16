@@ -1,4 +1,4 @@
-<img src="https://github.com/mateuscamargo/Roose_App/blob/master/Roose.jpg" width="600px" heigth="600px" align="right">
+<img src="https://github.com/mateuscamargo/Roose_App/blob/master/Roose.jpg" width="350px" heigth="350px" align="right">
 
 
 # ROOSE
