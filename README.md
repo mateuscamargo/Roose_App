@@ -10,7 +10,7 @@
 
 <hr>
 
-### FUNCIONALIDADES (4 EM TEMPO REAL):
+### FUNCIONALIDADES:
 
 -   Previsão do tempo
 -   Check-in
@@ -21,16 +21,24 @@
 -   Não perturbe/favor arrumar o quarto/Troca da roupa de cama
 -   Playlist de música
 -   Integração com smart tv
--   Abertura de fechadura com NFC
 -   Abri App Uber e Solicitar uma corrida
 -   Ligar Ar-Condicionado quando estiver próximo do
--   Reabastecer o frigobar/Solicitar Refeição
+-   Solicitar reabastecimento do frigobar / refeição
+-   Abertura de fechadura com NFC
+
+### LINGUAGENS:
+- Definidas quando iniciar o desenvolvimento
+
+### FERRAMENTAS:
+- GitHub[
+- Trello
+- Draw
 
 
 
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyOTAzNzYsMTIyNzE0MTI4NiwtNDk4Nz
-czOTg5LDEyMzIxODM2MDFdfQ==
+eyJoaXN0b3J5IjpbNDc3MzMxOTY3LDEyMjcxNDEyODYsLTQ5OD
+c3Mzk4OSwxMjMyMTgzNjAxXX0=
 -->
