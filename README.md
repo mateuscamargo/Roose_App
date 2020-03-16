@@ -8,7 +8,7 @@ DESENVOLVIMENTO DE UMA ASSISTENTE PESSOAL VIRTUAL
 - **Nome do Grupo:** Optimus 
 - **Nome do Assistente:** Roose
 - **Visão do Produto:** 
-   - Fornecer suporte para a criação de um software para web, onde o usuário terá acesso a todas as comodidades solicitadas, assim melhorando a experiencia que o hóspede terá por meio de páginas interativas e de fácil entendimento.
+   - Fornecer suporte para a criação de um software para web, onde o usuário terá acesso a todas as comodidades solicitadas, assim melhorando a experiência que o hóspede terá por meio de páginas interativas e de fácil entendimento.
 - **Objetivo:**
   - Fazer com que a relação do cliente com o
 hotel seja facilitado. 
