@@ -8,9 +8,6 @@
 **Visão do Produto:** Assistente Pessoal Virtual para um Hotel <br>
 **Objetivo:** Fazer com que o cliente tenha as facilidades na palma da mão, ou seja, ter acesso a ações que melhore a sua experiência na permanência ao hotel <br>
 
-
-
-
 <hr>
 
 ### FUNCIONALIDADES:
@@ -33,7 +30,6 @@
 - XHTML
 - CSS
 - JavaScript
-- 
 
 ### FERRAMENTAS:
 - [GitHub](https://github.com/mateuscamargo/Roose_App)
@@ -45,6 +41,7 @@
 
 > Escrito com [StackEdit]( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMDUxNjc5LDIwNzE2MDc0NDksMTIyNz
-E0MTI4NiwtNDk4NzczOTg5LDEyMzIxODM2MDFdfQ==
+eyJoaXN0b3J5IjpbMTI2NjEzMDM5NCw0MTMwNTE2NzksMjA3MT
+YwNzQ0OSwxMjI3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYw
+MV19
 -->
