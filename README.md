@@ -46,7 +46,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 - [Glauco](https://github.com/glaucofidelix)
 - [Vitor](https://github.com/assenvitor)
 - [Flávio](https://github.com/twofap2)
-- [Felipe]()
+- [Felipe](https://github.com/FelipeNunis)
  
 ### SCRUM MASTER
 
