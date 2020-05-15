@@ -53,14 +53,10 @@ que melhore a sua experiência em sua permanência ao hotel.
 - [Rafael](github.com/RafaelRCLima)
 
 
-## Edições devem ser feitas
-
-
-
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI3NDQ5ODQsMTc3NTQwNzE1MSwzNz
-c4NTg5NzAsMTI0MzA4MjE4OSwtMjczNDA2MDM5LDYwMzAzMzIz
-NCwxMjY2MTMwMzk0LDQxMzA1MTY3OSwyMDcxNjA3NDQ5LDEyMj
-cxNDEyODYsLTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
+eyJoaXN0b3J5IjpbLTE2NzA1NzM3NSwxNzc1NDA3MTUxLDM3Nz
+g1ODk3MCwxMjQzMDgyMTg5LC0yNzM0MDYwMzksNjAzMDMzMjM0
+LDEyNjYxMzAzOTQsNDEzMDUxNjc5LDIwNzE2MDc0NDksMTIyNz
+E0MTI4NiwtNDk4NzczOTg5LDEyMzIxODM2MDFdfQ==
 -->
