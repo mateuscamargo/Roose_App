@@ -16,11 +16,11 @@ hotel seja facilitado.
 na palma da mão, ou seja, ter acesso a ações
 que melhore a sua experiência em sua permanência ao hotel.
 
- ### FUNCIONALIDADES:
- - Previsão do tempo
- - Check-in
- - Check-out
- - Restaurantes / pontos turísticos próximos
+>  ### FUNCIONALIDADES (Antes do COVID-19):
+>   - Previsão do tempo
+>    - Check-in
+>     - Check-out
+>      - Restaurantes / pontos turísticos próximos
  - Despertador
  - Serviço de quarto
  - Lista de reprodução de música
@@ -29,7 +29,16 @@ que melhore a sua experiência em sua permanência ao hotel.
  - Ligar Ar-condicionado
  - Solicitar reabastecimento de frigobar / refeição
  - Abertura de fechadura com NFC
+
+
+
  
+
+### O QUE ENTRA NO GITHUB
+
+- As funcionalidades são alteradas para se adaquear aos feedbacks e ao nova redefinição das quantidades das funcionalidades
+
+
 ### LINGUAGENS:
 - Python
 - XHTML
@@ -62,8 +71,9 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA1NzM3NSwxNzc1NDA3MTUxLDM3Nz
-g1ODk3MCwxMjQzMDgyMTg5LC0yNzM0MDYwMzksNjAzMDMzMjM0
-LDEyNjYxMzAzOTQsNDEzMDUxNjc5LDIwNzE2MDc0NDksMTIyNz
-E0MTI4NiwtNDk4NzczOTg5LDEyMzIxODM2MDFdfQ==
+eyJoaXN0b3J5IjpbLTExNTg2NTc2MDAsLTE2NzA1NzM3NSwxNz
+c1NDA3MTUxLDM3Nzg1ODk3MCwxMjQzMDgyMTg5LC0yNzM0MDYw
+MzksNjAzMDMzMjM0LDEyNjYxMzAzOTQsNDEzMDUxNjc5LDIwNz
+E2MDc0NDksMTIyNzE0MTI4NiwtNDk4NzczOTg5LDEyMzIxODM2
+MDFdfQ==
 -->
