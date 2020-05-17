@@ -16,23 +16,20 @@ hotel seja facilitado.
 na palma da mão, ou seja, ter acesso a ações
 que melhore a sua experiência em sua permanência ao hotel.
 
->  ### FUNCIONALIDADES (Antes do COVID-19):
+>  #### FUNCIONALIDADES (Antes da Pandemia do COVID-19):
 >   - Previsão do tempo
 >    - Check-in
 >     - Check-out
 >      - Restaurantes / pontos turísticos próximos
- - Despertador
- - Serviço de quarto
- - Lista de reprodução de música
- - Integração com Smart TV
- - Abri App Uber e Solicitar uma corrida
- - Ligar Ar-condicionado
- - Solicitar reabastecimento de frigobar / refeição
- - Abertura de fechadura com NFC
+> - Despertador
+> - Serviço de quarto
+> - Lista de reprodução de música
+> - Integração com Smart TV
+> - Abri App Uber e Solicitar uma corrida
+> - Ligar Ar-condicionado
+> - Solicitar reabastecimento de frigobar / refeição
+> - Abertura de fechadura com NFC
 
-
-
- 
 
 ### O QUE ENTRA NO GITHUB
 
@@ -71,9 +68,9 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg2NTc2MDAsLTE2NzA1NzM3NSwxNz
-c1NDA3MTUxLDM3Nzg1ODk3MCwxMjQzMDgyMTg5LC0yNzM0MDYw
-MzksNjAzMDMzMjM0LDEyNjYxMzAzOTQsNDEzMDUxNjc5LDIwNz
-E2MDc0NDksMTIyNzE0MTI4NiwtNDk4NzczOTg5LDEyMzIxODM2
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTQxMDM2MDI3MywtMTY3MDU3Mzc1LDE3Nz
+U0MDcxNTEsMzc3ODU4OTcwLDEyNDMwODIxODksLTI3MzQwNjAz
+OSw2MDMwMzMyMzQsMTI2NjEzMDM5NCw0MTMwNTE2NzksMjA3MT
+YwNzQ0OSwxMjI3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYw
+MV19
 -->
