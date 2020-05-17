@@ -32,7 +32,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 ---
 ### O QUE ENTRA NO GITHUB
 
-- As funcionalidades são alteradas para se adaquear aos feedbacks e ao nova redefinição das quantidades das funcionalidades
+- As funcionalidades são alteradas para se adequar aos feedbacks e ao nova redefinição das quantidades das funcionalidades
 ---
 ### FUNCIONALIDADES (Descritivas):
 
@@ -42,7 +42,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 - **Check-out:** O usuário conseguiria fazer o Check-OUT no hotel com maior facilidade e comodidade assim reduzindo o tempo de espera.
 
-- **Restaurantes / pontos turísticos próximos:** O usuário conseguirá localizar os pontos proximos da sua localidade pelo GPS.
+- **Restaurantes / pontos turísticos próximos:** O usuário conseguirá localizar os pontos próximos da sua localidade pelo GPS.
 
 - **Despertador:** O usuário conseguirá programar um despertador no APP, para ajuda-lo a se programar para qualquer atividade que queira fazer.
 
@@ -66,26 +66,25 @@ que melhore a sua experiência em sua permanência ao hotel.
 - [Trello](https://trello.com/b/oUfxIrLz/app-roose)
 - [Draw.io](https://draw.io)
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
-
+---
 ### DESIGN UX - POC:
-
+---
 - [Telas de Login/Register](https://xd.adobe.com/view/69021e23-93d4-449b-6183-300331026bdc-1f33/)
-
-
+---
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
 - [Glauco](https://github.com/glaucofidelix)
 - [Vitor](https://github.com/assenvitor)
 - [Flávio](https://github.com/twofap2)
 - [Felipe](https://github.com/FelipeNunis)
- 
+ ---
 ### SCRUM MASTER
 
 - [Rafael](github.com/RafaelRCLima)
-
+---
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODExNzU0NCwtMTY3MDU3Mzc1LDE3Nz
+eyJoaXN0b3J5IjpbMTk5NTQ2ODE5NCwtMTY3MDU3Mzc1LDE3Nz
 U0MDcxNTEsMzc3ODU4OTcwLDEyNDMwODIxODksLTI3MzQwNjAz
 OSw2MDMwMzMyMzQsMTI2NjEzMDM5NCw0MTMwNTE2NzksMjA3MT
 YwNzQ0OSwxMjI3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYw
