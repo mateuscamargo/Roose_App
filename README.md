@@ -49,14 +49,18 @@ que melhore a sua experiência em sua permanência ao hotel.
 - **Lista de reprodução de música:** O usuário terá uma lista de música personalizada das músicas mais ouvidas pelos hóspedes no spotify, para tonar sua estadia mais comoda.
 
 - **Serviço de quarto:** O usuário conseguirá solicitar qualquer serviço prestado pelo hotel, assim tendo uma comodidade maior.
-
-
+---
 ### LINGUAGENS:
 - Python
 - XHTML
 - CSS
 - JavaScript
-
+---
+### FRAMEWORK
+- IONIC
+- Angular
+- React
+---
 ### FERRAMENTAS:
 - [GitHub](https://github.com/mateuscamargo/Roose_App)
 - [Trello](https://trello.com/b/oUfxIrLz/app-roose)
@@ -79,11 +83,9 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 - [Rafael](github.com/RafaelRCLima)
 
-### FRAMEWORK
-
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTE4MDQ4MywtMTY3MDU3Mzc1LDE3Nz
+eyJoaXN0b3J5IjpbMTYyODExNzU0NCwtMTY3MDU3Mzc1LDE3Nz
 U0MDcxNTEsMzc3ODU4OTcwLDEyNDMwODIxODksLTI3MzQwNjAz
 OSw2MDMwMzMyMzQsMTI2NjEzMDM5NCw0MTMwNTE2NzksMjA3MT
 YwNzQ0OSwxMjI3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYw
