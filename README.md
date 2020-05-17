@@ -17,10 +17,10 @@ na palma da mão, ou seja, ter acesso a ações
 que melhore a sua experiência em sua permanência ao hotel.
 ---
 >  #### FUNCIONALIDADES (Antes da Pandemia do COVID-19):
->   - Previsão do tempo
->    - Check-in
->     - Check-out
->      - Restaurantes / pontos turísticos próximos
+> - Previsão do tempo
+> - Check-in
+> - Check-out
+> - Restaurantes / pontos turísticos próximos
 > - Despertador
 > - Serviço de quarto
 > - Lista de reprodução de música
@@ -34,21 +34,21 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 - As funcionalidades são alteradas para se adaquear aos feedbacks e ao nova redefinição das quantidades das funcionalidades
 ---
-### FUNCIONALIDADES (Descritivas:
+### FUNCIONALIDADES (Descritivas):
 
-Previsão do tempo: Mostrará para o usuário a temperatura em tempo real ou o dia que ele desejar fazer alguma atividade que está programando.
+- **Previsão do tempo:** Mostrará para o usuário a temperatura em tempo real ou o dia que ele desejar fazer alguma atividade que está programando.
 
-Check-in: O usuário conseguiria fazer o Check-IN no hotel com maior facilidade e comodidade assim reduzindo o tempo de espera.
+- **Check-in:** O usuário conseguiria fazer o Check-IN no hotel com maior facilidade e comodidade assim reduzindo o tempo de espera.
 
-Check-out: O usuário conseguiria fazer o Check-OUT no hotel com maior facilidade e comodidade assim reduzindo o tempo de espera.
+- **Check-out:** O usuário conseguiria fazer o Check-OUT no hotel com maior facilidade e comodidade assim reduzindo o tempo de espera.
 
-Restaurantes / pontos turísticos próximos: O usuário conseguirá localizar os pontos proximos da sua localidade pelo GPS.
+- **Restaurantes / pontos turísticos próximos:** O usuário conseguirá localizar os pontos proximos da sua localidade pelo GPS.
 
-Despertador: O usuário conseguirá programar um despertador no APP, para ajuda-lo a se programar para qualquer atividade que queira fazer.
+- **Despertador:** O usuário conseguirá programar um despertador no APP, para ajuda-lo a se programar para qualquer atividade que queira fazer.
 
-Lista de reprodução de música: O usuário terá uma lista de música personalizada das músicas mais ouvidas pelos hóspedes no spotify, para tonar sua estadia mais comoda.
+- **Lista de reprodução de música:** O usuário terá uma lista de música personalizada das músicas mais ouvidas pelos hóspedes no spotify, para tonar sua estadia mais comoda.
 
-Serviço de quarto: O usuário conseguirá solicitar qualquer serviço prestado pelo hotel, assim tendo uma comodidade maior.
+- **Serviço de quarto:** O usuário conseguirá solicitar qualquer serviço prestado pelo hotel, assim tendo uma comodidade maior.
 
 
 ### LINGUAGENS:
@@ -63,7 +63,7 @@ Serviço de quarto: O usuário conseguirá solicitar qualquer serviço prestado 
 - [Draw.io](https://draw.io)
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
 
-### DESIGN UX - PROTOTIPAÇÃO DAS TELAS:
+### DESIGN UX - POC:
 
 - [Telas de Login/Register](https://xd.adobe.com/view/69021e23-93d4-449b-6183-300331026bdc-1f33/)
 
@@ -83,7 +83,7 @@ Serviço de quarto: O usuário conseguirá solicitar qualquer serviço prestado 
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzE0MDc4NywtMTY3MDU3Mzc1LDE3Nz
+eyJoaXN0b3J5IjpbLTg2OTE4MDQ4MywtMTY3MDU3Mzc1LDE3Nz
 U0MDcxNTEsMzc3ODU4OTcwLDEyNDMwODIxODksLTI3MzQwNjAz
 OSw2MDMwMzMyMzQsMTI2NjEzMDM5NCw0MTMwNTE2NzksMjA3MT
 YwNzQ0OSwxMjI3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYw
