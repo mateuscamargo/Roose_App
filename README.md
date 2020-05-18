@@ -68,9 +68,13 @@ que melhore a sua experiência em sua permanência ao hotel.
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
 ---
 ### DESIGN UX - POC:
----
 - [Telas de Login/Register](https://xd.adobe.com/view/69021e23-93d4-449b-6183-300331026bdc-1f33/)
 ---
+### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS:
+
+- [Entrega 01] (https://drive.google.com/file/d/1-qO5nEdPvHz8XJKgz1L0tMqdJiLzg1ef/view?usp=drivesdk)
+---
+
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
 - [Glauco](https://github.com/glaucofidelix)
