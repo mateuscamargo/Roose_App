@@ -72,7 +72,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 ---
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS:
 
-- [Entrega 01] (https://drive.google.com/file/d/1-qO5nEdPvHz8XJKgz1L0tMqdJiLzg1ef/view?usp=drivesdk)
+- [Entrega 01](https://drive.google.com/file/d/1-qO5nEdPvHz8XJKgz1L0tMqdJiLzg1ef/view?usp=drivesdk)
 ---
 
 ### DEV TEAM
