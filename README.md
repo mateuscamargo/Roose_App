@@ -32,7 +32,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 ---
 ### O QUE ENTRA NO GITHUB
 
-- As funcionalidades são alteradas para se adequar aos feedbacks e ao nova redefinição das quantidades das funcionalidades
+- As funcionalidades são alteradas para se adequar aos feedbacks e a nova redefinição das quantidades das funcionalidades;
 ---
 ### FUNCIONALIDADES (Descritivas):
 
