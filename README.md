@@ -66,6 +66,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 - [Trello](https://trello.com/b/oUfxIrLz/app-roose)
 - [Draw.io](https://draw.io)
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
+- [StackEdit]( https://stackedit.io/)
 ---
 ### DESIGN UX - POC:
 - [Telas de Login/Register](https://xd.adobe.com/view/69021e23-93d4-449b-6183-300331026bdc-1f33/)
