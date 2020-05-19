@@ -89,9 +89,9 @@ que melhore a sua experiência em sua permanência ao hotel.
 ---
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTQ2ODE5NCwtMTY3MDU3Mzc1LDE3Nz
-U0MDcxNTEsMzc3ODU4OTcwLDEyNDMwODIxODksLTI3MzQwNjAz
-OSw2MDMwMzMyMzQsMTI2NjEzMDM5NCw0MTMwNTE2NzksMjA3MT
-YwNzQ0OSwxMjI3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYw
-MV19
+eyJoaXN0b3J5IjpbMjE3OTAzMzM2LDE5OTU0NjgxOTQsLTE2Nz
+A1NzM3NSwxNzc1NDA3MTUxLDM3Nzg1ODk3MCwxMjQzMDgyMTg5
+LC0yNzM0MDYwMzksNjAzMDMzMjM0LDEyNjYxMzAzOTQsNDEzMD
+UxNjc5LDIwNzE2MDc0NDksMTIyNzE0MTI4NiwtNDk4NzczOTg5
+LDEyMzIxODM2MDFdfQ==
 -->
