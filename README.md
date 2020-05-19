@@ -80,7 +80,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 - [Mateus](https://github.com/mateuscamargo)
 - [Glauco](https://github.com/glaucofidelix)
 - [Vitor](https://github.com/assenvitor)
-- [Flávio](https://github.com/twofap2)
+- [Flavio](https://github.com/twofap2)
 - [Felipe](https://github.com/FelipeNunis)
  ---
 ### SCRUM MASTER
@@ -89,9 +89,9 @@ que melhore a sua experiência em sua permanência ao hotel.
 ---
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3OTAzMzM2LDE5OTU0NjgxOTQsLTE2Nz
-A1NzM3NSwxNzc1NDA3MTUxLDM3Nzg1ODk3MCwxMjQzMDgyMTg5
-LC0yNzM0MDYwMzksNjAzMDMzMjM0LDEyNjYxMzAzOTQsNDEzMD
-UxNjc5LDIwNzE2MDc0NDksMTIyNzE0MTI4NiwtNDk4NzczOTg5
-LDEyMzIxODM2MDFdfQ==
+eyJoaXN0b3J5IjpbLTIwNzc0MDg5MjAsMTk5NTQ2ODE5NCwtMT
+Y3MDU3Mzc1LDE3NzU0MDcxNTEsMzc3ODU4OTcwLDEyNDMwODIx
+ODksLTI3MzQwNjAzOSw2MDMwMzMyMzQsMTI2NjEzMDM5NCw0MT
+MwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2LC00OTg3NzM5
+ODksMTIzMjE4MzYwMV19
 -->
