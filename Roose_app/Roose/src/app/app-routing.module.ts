@@ -7,7 +7,9 @@ const routes: Routes = [
     path: 'home',
     loadChildren: () => import('./home/home.module').then( m => m.HomePageModule)
   },
-  { path: 'slide', component: SlideComponent},
+  {
+    path: 'slide', component: SlideComponent
+  },
   {
     path: '',
     redirectTo: 'slide',
