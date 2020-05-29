@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 import { SlideComponent } from './slide/slide.component';
+import { AutenticaComponent } from './autentica/autentica.component';
 
 const routes: Routes = [
   {
@@ -11,8 +12,11 @@ const routes: Routes = [
     path: 'slide', component: SlideComponent
   },
   {
+    path: 'autentica', component: AutenticaComponent
+  },
+  {
     path: '',
-    redirectTo: 'slide',
+    redirectTo: 'autentica',
     pathMatch: 'full'
   },
 ];
