@@ -49,6 +49,9 @@ que melhore a sua experiência em sua permanência ao hotel.
 - **Lista de reprodução de música:** O usuário terá uma lista de música personalizada das músicas mais ouvidas pelos hóspedes no spotify, para tonar sua estadia mais comoda.
 
 - **Serviço de quarto:** O usuário conseguirá solicitar qualquer serviço prestado pelo hotel, assim tendo uma comodidade maior.
+
+- **Recomendação de filmes:** O usuário vai ter um serviço de uma recomendação de filme. Será feita por uma API produzida pelo 6º Semestre.
+
 ---
 ### LINGUAGENS:
 - Python
