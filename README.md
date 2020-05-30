@@ -44,7 +44,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 - **Restaurantes / pontos turísticos próximos:** O usuário conseguirá localizar os pontos próximos da sua localidade pelo GPS.
 
-- **Despertador:** O usuário conseguirá programar um despertador no APP, para ajuda-lo a se programar para qualquer atividade que queira fazer.
+- **Despertador:** O usuário conseguirá programar um despertador no APP, para ajudá-lo a se programar para qualquer atividade que queira fazer.
 
 - **Lista de reprodução de música:** O usuário terá uma lista de música personalizada das músicas mais ouvidas pelos hóspedes no spotify, para tonar sua estadia mais comoda.
 
@@ -92,9 +92,9 @@ que melhore a sua experiência em sua permanência ao hotel.
 ---
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc0MDg5MjAsMTk5NTQ2ODE5NCwtMT
-Y3MDU3Mzc1LDE3NzU0MDcxNTEsMzc3ODU4OTcwLDEyNDMwODIx
-ODksLTI3MzQwNjAzOSw2MDMwMzMyMzQsMTI2NjEzMDM5NCw0MT
-MwNTE2NzksMjA3MTYwNzQ0OSwxMjI3MTQxMjg2LC00OTg3NzM5
-ODksMTIzMjE4MzYwMV19
+eyJoaXN0b3J5IjpbMjExMTYxMDU1NywtMjA3NzQwODkyMCwxOT
+k1NDY4MTk0LC0xNjcwNTczNzUsMTc3NTQwNzE1MSwzNzc4NTg5
+NzAsMTI0MzA4MjE4OSwtMjczNDA2MDM5LDYwMzAzMzIzNCwxMj
+Y2MTMwMzk0LDQxMzA1MTY3OSwyMDcxNjA3NDQ5LDEyMjcxNDEy
+ODYsLTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
 -->
