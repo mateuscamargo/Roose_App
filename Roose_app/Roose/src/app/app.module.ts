@@ -9,9 +9,10 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { SlideComponent } from './slide/slide.component';
+import { AutenticaComponent } from './autentica/autentica.component';
 
 @NgModule({
-  declarations: [AppComponent, SlideComponent],
+  declarations: [AppComponent, SlideComponent, AutenticaComponent],
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule],
   providers: [
