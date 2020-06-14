@@ -10,6 +10,7 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { SlideComponent } from './slide/slide.component';
 import { AutenticaComponent } from './autentica/autentica.component';
+import { SpeechRecognition } from '@ionic-native/speech-recognition/ngx';
 
 @NgModule({
   declarations: [AppComponent, SlideComponent, AutenticaComponent],
@@ -18,6 +19,7 @@ import { AutenticaComponent } from './autentica/autentica.component';
   providers: [
     StatusBar,
     SplashScreen,
+    SpeechRecognition,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   bootstrap: [AppComponent]

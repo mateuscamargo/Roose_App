@@ -8,35 +8,22 @@
 
 <ion-content [fullscreen]="true">
 
-  <ion-tabs>
-    
-    <ion-tab-bar slot="bottom">
-
-      <ion-tab-button tab="slide">
-        <ion-icon name="person-outline"></ion-icon>
-        <ion-label>Perfil</ion-label>
-      </ion-tab-button>
-
-      <ion-tab-button tab="Voice">
-        <ion-icon name="mic-outline"></ion-icon>
-        <ion-label>Voice</ion-label>
-      </ion-tab-button>
-
-      <ion-tab-button tab="Configuração">
-        <ion-icon name="settings-outline"></ion-icon>
-        <ion-label>Configuração</ion-label>
-      </ion-tab-button>
-
-    </ion-tab-bar>
-
-  </ion-tabs>
   
-  <div id="container">
 
-    <strong>Em que eu posso ajudar?</strong>
-    <p>Tente "Previsão do Tempo"</p>
-    
-  </div>
+  <ion-button (click)="getPermission()" >Permissao</ion-button>
+  <ion-button (click)="Start()" >Falar</ion-button>
+
+  <ion-card>
+    <ion-card-header> Você disse: </ion-card-header>
+    <ion-card-content>
+      <ion-list>
+          <ion-item *ngFor="let match of matches">
+            {{ match }}
+          </ion-item>
+      </ion-list>
+    </ion-card-content>
+  </ion-card>
+  
 
   
 </ion-content>
