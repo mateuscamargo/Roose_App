@@ -78,8 +78,8 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 - [Vídeo 01](https://drive.google.com/file/d/1-qO5nEdPvHz8XJKgz1L0tMqdJiLzg1ef/view?usp=drivesdk)
 - [Vídeo 02](https://drive.google.com/file/d/16zFRcaSDGNJ7ozbutNl84dUz8eK-p8-x/view?usp=sharing)
+- [Vídeo 03](https://drive.google.com/file/d/15p-eQVBCazWWCdCaafIFV7JC-2eFl2pr/view?usp=sharing)
 ---
-
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
 - [Glauco](https://github.com/glaucofidelix)
