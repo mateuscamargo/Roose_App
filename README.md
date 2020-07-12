@@ -91,6 +91,11 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 - [Rafael](github.com/RafaelRCLima)
 ---
+
+### LinkedIn
+
+- [Vitor Assen](https://www.linkedin.com/in/vitorassen/)
+
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjExMTYxMDU1NywtMjA3NzQwODkyMCwxOT
