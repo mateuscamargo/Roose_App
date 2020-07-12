@@ -95,7 +95,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 ### LinkedIn
 
 - [Vitor Assen](https://www.linkedin.com/in/vitorassen/)
-- [Mateus Camargo]()
+- [Mateus Camargo](https://www.linkedin.com/in/mateuscamargolima/)
 - [Flavio Alessandro]()
 - [Felipe Nunis]()
 - [Rafael Lima]()
