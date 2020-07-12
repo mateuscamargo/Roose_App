@@ -92,13 +92,13 @@ que melhore a sua experiência em sua permanência ao hotel.
 - [Rafael](github.com/RafaelRCLima)
 ---
 
-### LinkedIn
+### LINKEDIN
 
 - [Vitor Assen](https://www.linkedin.com/in/vitorassen/)
 - [Mateus Camargo](https://www.linkedin.com/in/mateuscamargolima/)
-- [Flavio Alessandro]()
-- [Felipe Nunis]()
-- [Rafael Lima]()
+- [Flavio Alessandro](https://www.linkedin.com/in/flavioapereira)
+- [Felipe Nunis](https://www.linkedin.com/in/felipe-duo-209651127/)
+- [Rafael Lima](https://www.linkedin.com/in/rafael-lima-29249412b)
 
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
