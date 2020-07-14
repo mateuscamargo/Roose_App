@@ -1,4 +1,4 @@
-<img src="https://github.com/mateuscamargo/Roose_App/blob/master/images/roose_img.png" width="270px" heigth="270px" align="i">
+<img src="https://github.com/mateuscamargo/Roose_App/blob/master/images/roose_img.jpng" width="270px" heigth="270px" align="i">
 
 
 # ROOSE
@@ -44,7 +44,7 @@ que melhore a sua experiência em sua permanência ao hotel.
 
 - **Restaurantes / pontos turísticos próximos:** O usuário conseguirá localizar os pontos próximos da sua localidade pelo GPS.
 
-- **Despertador:** O usuário conseguirá programar um despertador no APP, para ajudá-lo a se programar para qualquer atividade que queira fazer.
+- **Despertador:** O usuário conseguirá programar um despertador no APP, para ajud-lo a se programar para qualquer atividade que queira fazer.
 
 - **Lista de reprodução de música:** O usuário terá uma lista de música personalizada das músicas mais ouvidas pelos hóspedes no spotify, para tonar sua estadia mais comoda.
 
@@ -80,11 +80,12 @@ que melhore a sua experiência em sua permanência ao hotel.
 - [Vídeo 02](https://drive.google.com/file/d/16zFRcaSDGNJ7ozbutNl84dUz8eK-p8-x/view?usp=sharing)
 - [Vídeo 03](https://drive.google.com/file/d/15p-eQVBCazWWCdCaafIFV7JC-2eFl2pr/view?usp=sharing)
 ---
+
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
 - [Glauco](https://github.com/glaucofidelix)
 - [Vitor](https://github.com/assenvitor)
-- [Flavio](https://github.com/twofap2)
+- [Flvio](https://github.com/twofap2)
 - [Felipe](https://github.com/FelipeNunis)
  ---
 ### SCRUM MASTER
@@ -93,9 +94,9 @@ que melhore a sua experiência em sua permanência ao hotel.
 ---
 > Escrito com [StackEdit] ( https://stackedit.io/) .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTYxMDU1NywtMjA3NzQwODkyMCwxOT
-k1NDY4MTk0LC0xNjcwNTczNzUsMTc3NTQwNzE1MSwzNzc4NTg5
-NzAsMTI0MzA4MjE4OSwtMjczNDA2MDM5LDYwMzAzMzIzNCwxMj
-Y2MTMwMzk0LDQxMzA1MTY3OSwyMDcxNjA3NDQ5LDEyMjcxNDEy
-ODYsLTQ5ODc3Mzk4OSwxMjMyMTgzNjAxXX0=
+eyJoaXN0b3J5IjpbNTg2MzA4MzMzLDIxMTE2MTA1NTcsLTIwNz
+c0MDg5MjAsMTk5NTQ2ODE5NCwtMTY3MDU3Mzc1LDE3NzU0MDcx
+NTEsMzc3ODU4OTcwLDEyNDMwODIxODksLTI3MzQwNjAzOSw2MD
+MwMzMyMzQsMTI2NjEzMDM5NCw0MTMwNTE2NzksMjA3MTYwNzQ0
+OSwxMjI3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
 -->
