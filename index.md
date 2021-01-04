@@ -1,37 +1,102 @@
-## Welcome to GitHub Pages
+<img src="https://github.com/mateuscamargo/Roose_App/blob/master/images/roose_img.jpg?raw=true" width="270px" heigth="270px" align="i">
 
-You can use the [editor on GitHub](https://github.com/mateuscamargo/Roose_App/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# ROOSE
 
-### Markdown
+DESENVOLVIMENTO DE UM ASSISTENTE PESSOAL VIRTUAL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Nome do Grupo:** Optimus 
+- **Nome do Assistente:** Roose
+- **Visão do Produto:** 
+   - Fornecer suporte para a criação de um APP, onde o usuário terá acesso a todas as comodidades solicitadas, assim melhorando a experiência que o hóspede terá por meio de páginas interativas e de fácil entendimento.
+- **Objetivo:**
+  - Fazer com que a relação do cliente com o
+hotel seja facilitado. 
+  - Fazer com que o cliente tenha as facilidades
+na palma da mão, ou seja, ter acesso a ações
+que melhore a sua experiência em sua permanência ao hotel.
+---
+>  #### FUNCIONALIDADES (Antes da Pandemia do COVID-19):
+> - Previsão do tempo
+> - Check-in
+> - Check-out
+> - Restaurantes / pontos turísticos próximos
+> - Despertador
+> - Serviço de quarto
+> - Lista de reprodução de música
+> - Integração com Smart TV
+> - Abri App Uber e Solicitar uma corrida
+> - Ligar Ar-condicionado
+> - Solicitar reabastecimento de frigobar / refeição
+> - Abertura de fechadura com NFC
+---
+### O QUE ENTRA NO GITHUB
 
-```markdown
-Syntax highlighted code block
+- As funcionalidades são alteradas para se adequar aos feedbacks e a nova redefinição das quantidades das funcionalidades;
+---
+### FUNCIONALIDADES (Descritivas):
 
-# Header 1
-## Header 2
-### Header 3
+- **Previsão do tempo:** Mostrará para o usuário a temperatura em tempo real ou o dia que ele desejar fazer alguma atividade que está programando.
 
-- Bulleted
-- List
+- **Check-in:** O usuário conseguiria fazer o Check-IN no hotel com maior facilidade e comodidade assim reduzindo o tempo de espera.
 
-1. Numbered
-2. List
+- **Check-out:** O usuário conseguiria fazer o Check-OUT no hotel com maior facilidade e comodidade assim reduzindo o tempo de espera.
 
-**Bold** and _Italic_ and `Code` text
+- **Restaurantes / pontos turísticos próximos:** O usuário conseguirá localizar os pontos próximos da sua localidade pelo GPS.
 
-[Link](url) and ![Image](src)
-```
+- **Despertador:** O usuário conseguirá programar um despertador no APP, para ajud-lo a se programar para qualquer atividade que queira fazer.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **Lista de reprodução de música:** O usuário terá uma lista de música personalizada das músicas mais ouvidas pelos hóspedes no spotify, para tonar sua estadia mais comoda.
 
-### Jekyll Themes
+- **Serviço de quarto:** O usuário conseguirá solicitar qualquer serviço prestado pelo hotel, assim tendo uma comodidade maior.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mateuscamargo/Roose_App/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Recomendação de filmes:** O usuário vai ter um serviço de uma recomendação de filme. Será feita por uma API produzida pelo 6º Semestre.
 
-### Support or Contact
+---
+### LINGUAGENS:
+- Python
+- XHTML
+- CSS
+- JavaScript
+---
+### FRAMEWORK
+- IONIC
+- Angular
+- React
+---
+### FERRAMENTAS:
+- [GitHub](https://github.com/mateuscamargo/Roose_App)
+- [Trello](https://trello.com/b/oUfxIrLz/app-roose)
+- [Draw.io](https://draw.io)
+- [AdobeXD](https://www.adobe.com/br/products/xd.html)
+- [StackEdit]( https://stackedit.io/)
+---
+### DESIGN UX - POC:
+- [Telas de Login/Register](https://xd.adobe.com/view/69021e23-93d4-449b-6183-300331026bdc-1f33/)
+---
+### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Vídeo 01](https://drive.google.com/file/d/1-qO5nEdPvHz8XJKgz1L0tMqdJiLzg1ef/view?usp=drivesdk)
+- [Vídeo 02](https://drive.google.com/file/d/16zFRcaSDGNJ7ozbutNl84dUz8eK-p8-x/view?usp=sharing)
+- [Vídeo 03](https://drive.google.com/file/d/15p-eQVBCazWWCdCaafIFV7JC-2eFl2pr/view?usp=sharing)
+---
+
+### DEV TEAM
+- [Mateus](https://github.com/mateuscamargo)
+- [Glauco](https://github.com/glaucofidelix)
+- [Vitor](https://github.com/assenvitor)
+- [Flvio](https://github.com/twofap2)
+- [Felipe](https://github.com/FelipeNunis)
+ ---
+### SCRUM MASTER
+
+- [Rafael](github.com/RafaelRCLima)
+---
+> Escrito com [StackEdit] ( https://stackedit.io/) .
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTg2MzA4MzMzLDIxMTE2MTA1NTcsLTIwNz
+c0MDg5MjAsMTk5NTQ2ODE5NCwtMTY3MDU3Mzc1LDE3NzU0MDcx
+NTEsMzc3ODU4OTcwLDEyNDMwODIxODksLTI3MzQwNjAzOSw2MD
+MwMzMyMzQsMTI2NjEzMDM5NCw0MTMwNTE2NzksMjA3MTYwNzQ0
+OSwxMjI3MTQxMjg2LC00OTg3NzM5ODksMTIzMjE4MzYwMV19
+-->
